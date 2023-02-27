@@ -1,4 +1,8 @@
 package it.develhope.javadoc;
+/**
+ The Tester class provides a main method to test the ArithmeticOperators class.
+ Autore: Ionut
+ */
 public class Tester
 {
     public static void main(String args[])
